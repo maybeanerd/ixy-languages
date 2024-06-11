@@ -24,7 +24,7 @@ Some languages require a few lines of C stubs for features not offered by the la
 | OCaml      | [ixy.ml](https://github.com/ixy-languages/ixy.ml)       | Finished | [Documentation](https://github.com/ixy-languages/ixy.ml/blob/master/README.md)                                                                            |
 | Haskell    | [ixy.hs](https://github.com/ixy-languages/ixy.hs)       | Finished | [Thesis](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2019-ixy-haskell.pdf)                                                             |
 | Swift      | [ixy.swift](https://github.com/ixy-languages/ixy.swift) | Finished | [Documentation](https://github.com/ixy-languages/ixy.swift/blob/master/README.md)                                                                         |
-| Javascript | [ixy.js](https://github.com/ixy-languages/ixy.js)       | Finished | (WIP)                                                                                                                                                     |
+| Javascript | [ixy.js](https://github.com/ixy-languages/ixy.js)       | Finished | [Thesis](https://github.com/ixy-languages/ixy.js/blob/master/thesis.pdf)                                                                                  |
 | Python     | [ixy.py](https://github.com/ixy-languages/ixy.py)*      | Finished | (WIP)                                                                                                                                                     |
 
 
